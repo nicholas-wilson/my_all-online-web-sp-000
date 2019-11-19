@@ -14,4 +14,4 @@ def my_all?(collection)
   all_true
 end
 
-puts my_all?([1,2,3]) {|i| i < 2}
+puts my_all?([1,2,3]) {|i| i < 4}
