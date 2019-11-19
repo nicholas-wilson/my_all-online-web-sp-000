@@ -13,5 +13,3 @@ def my_all?(collection)
   end
   all_true
 end
-
-puts my_all?([1,2,3]) {|i| i < 2}
